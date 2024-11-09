@@ -1,0 +1,211 @@
+[
+   
+    {
+        "product_id": 1,
+        "product_title": "Apple iPhone 13 Pro",
+        "product_image": "https://i.ibb.co.com/k1Cf0GC/iphone13.jpg",
+        "category": "Smartphones",
+        "price": 999,
+        "description": "Apple's latest iPhone with A15 Bionic chip and advanced camera system.",
+        "Specification": [
+            "6.1-inch Super Retina XDR display",
+            "128GB storage",
+            "12MP triple-lens camera",
+            "5G enabled",
+            "3095mAh battery"
+        ],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": 2,
+        "product_title": "Samsung Galaxy S21 Ultra",
+        "product_image": "https://i.ibb.co.com/MgzqWjQ/Samsung-Galaxy-S21-Ultra.jpg",
+        "category": "Smartphones",
+        "price": 1199,
+        "description": "Samsung's flagship phone with high-resolution camera and powerful processor.",
+        "Specification": [
+            "6.8-inch Dynamic AMOLED display",
+            "256GB storage",
+            "108MP quad-lens camera",
+            "5G enabled",
+            "5000mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 3,
+        "product_title": "Google Pixel 6",
+        "product_image": "https://i.ibb.co.com/wwQGWs3/Google-Pixel-6.jpg",
+        "category": "Smartphones",
+        "price": 699,
+        "description": "Google's flagship phone with unique AI-powered features and pure Android.",
+        "Specification": [
+            "6.4-inch OLED display",
+            "128GB storage",
+            "50MP dual-lens camera",
+            "5G enabled",
+            "4614mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 4,
+        "product_title": "OnePlus 9 Pro",
+        "product_image": "https://i.ibb.co.com/hHXyr6s/One-Plus-9-Pro.png",
+        "category": "Smartphones",
+        "price": 969,
+        "description": "High-performance smartphone with Hasselblad camera technology.",
+        "Specification": [
+            "6.7-inch Fluid AMOLED display",
+            "128GB storage",
+            "48MP quad-lens camera",
+            "5G enabled",
+            "4500mAh battery"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": 5,
+        "product_title": "Sony Xperia 5 III",
+        "product_image": "https://i.ibb.co.com/kXsKGWW/Sony-Xperia-5-III-Lite.webp",
+        "category": "Smartphones",
+        "price": 999,
+        "description": "Compact flagship phone with excellent camera and performance.",
+        "Specification": [
+            "6.1-inch OLED display",
+            "128GB storage",
+            "12MP triple-lens camera",
+            "5G enabled",
+            "4500mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 6,
+        "product_title": "Xiaomi Mi 11 Ultra",
+        "product_image": "https://i.ibb.co.com/C29srk8/Xiaomi-Mi-11-Ultra.png",
+        "category": "Smartphones",
+        "price": 1199,
+        "description": "High-end smartphone with impressive camera quality and large battery.",
+        "Specification": [
+            "6.81-inch AMOLED display",
+            "256GB storage",
+            "50MP triple-lens camera",
+            "5G enabled",
+            "5000mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+
+    
+    {
+        "product_id": 7,
+        "product_title": "MacBook Pro 14-inch",
+        "product_image": "https://i.ibb.co.com/cCZvvQN/Mac-Book-Pro-14-inch.jpg",
+        "category": "Laptops",
+        "price": 1999,
+        "description": "Apple's powerful M1 Pro chip with enhanced graphics and battery life.",
+        "Specification": [
+            "14.2-inch Liquid Retina XDR display",
+            "16GB RAM",
+            "512GB SSD storage",
+            "Apple M1 Pro chip",
+            "20 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 8,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/ThqSp1h/Dell-XPS-13.webp",
+        "category": "Laptops",
+        "price": 999,
+        "description": "Compact and powerful ultrabook with an InfinityEdge display.",
+        "Specification": [
+            "13.4-inch FHD+ display",
+            "8GB RAM",
+            "256GB SSD storage",
+            "Intel Core i5 processor",
+            "12 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 9,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/BzYvQ3M/HP-Spectre-x360.webp",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "Convertible laptop with impressive design and long battery life.",
+        "Specification": [
+            "13.3-inch 4K OLED display",
+            "16GB RAM",
+            "512GB SSD storage",
+            "Intel Core i7 processor",
+            "16 hours battery life"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+
+    {
+        "product_id": 10,
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://i.ibb.co.com/5vJ2LPs/Apple-Watch-Series-7-GPS-45mm-Midnight-Aluminum-Case-with-Midnight-Sport-Band-Regular-d2cca1d2-a49a.webp",
+        "category": "Smartwatches",
+        "price": 399,
+        "description": "Apple's latest smartwatch with a larger display and health tracking.",
+        "Specification": [
+            "1.9-inch OLED display",
+            "Heart rate monitor",
+            "ECG sensor",
+            "GPS enabled",
+            "18 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 11,
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://i.ibb.co.com/tQDNxyb/Samsung-Galaxy-Watch-4.jpg",
+        "category": "Smartwatches",
+        "price": 349,
+        "description": "Samsung's smartwatch with fitness and health tracking features.",
+        "Specification": [
+            "1.4-inch Super AMOLED display",
+            "Blood oxygen monitor",
+            "Body composition analysis",
+            "GPS enabled",
+            "40 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 12,
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://i.ibb.co.com/YkFQ6p2/Fitbit-Versa-3.jpg",
+        "category": "Smartwatches",
+        "price": 229,
+        "description": "Popular fitness smartwatch with heart rate monitoring and GPS.",
+        "Specification": [
+            "1.58-inch AMOLED display",
+            "Heart rate monitor",
+            "Sleep tracking",
+            "GPS enabled",
+            "6 days battery life"
+        ],
+        "availability": true,
+        "rating": 4.6
+    }
+
+]
